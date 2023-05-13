@@ -1,0 +1,17 @@
+{
+  "name": "storefront_sdk_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@nacelle/storefront-sdk": "^2.0.1",
+    "esm": "^3.2.25",
+    "isomorphic-unfetch": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
